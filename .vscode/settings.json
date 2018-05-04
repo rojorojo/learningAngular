@@ -3,5 +3,5 @@
     "files.autoSave": "afterDelay",
     "editor.tabSize": 2,
     "editor.detectIndentation": false,
-    "editor.fontFamily": "'Source Code Variable',Consolas, 'Courier New', monospace"
+    "editor.fontFamily": "Consolas, 'Courier New', monospace"
   }
